@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">I'm Siarhei Kha</h1> 
-<h3 align="center">Unity Technical Lead & Principal Engineer at Playtika</h3>
+<h3 align="center">Unity Technical Lead & Principal Engineer at [Playtika](https://www.playtika.com/get-to-know-us/)</h3>
 
 - 😄 Pronouns: Serge
 - 🔭 Primary working experience: Mobile Game Development with Unity game engine for iOS/Android platforms from Client side.
