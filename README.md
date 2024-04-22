@@ -1,18 +1,16 @@
 ### Hi there 👋
 
-<h1 align="center">I'm Siarhei Khalandachou</h1> 
+<h1 align="center">I'm Siarhei Kha</h1> 
 <h3 align="center">Unity Technical Lead & Principal Engineer at Playtika</h3>
 
 - 😄 Pronouns: Serge
-- 🔭 Primary working experience: Mobile Game Development with Unity game engine for iOS/Android platforms.
-- 🔭 You can read my publications on [Medium](https://foxsterdev.medium.com/) or [Linkedin](https://www.linkedin.com/newsletters/from-code-to-play-7165295828431978496/)
+- 🔭 Primary working experience: Mobile Game Development with Unity game engine for iOS/Android platforms from Client side.
+- 👨‍💻 You can read my publications on [Medium](https://foxsterdev.medium.com/) or more game development posts you can find on [Linkedin](https://www.linkedin.com/newsletters/from-code-to-play-7165295828431978496/)
 - 🔭 I’m currently working on DevAccelerationSystem/ProjectCompilationCheck tools in my free time and want to share a great architect template for Unity games in future
 - 🌱 I’m currently research **Modern Unity Architecture** and **AI tools for game development**
-- 👨‍💻 All of my projects are available at [here](https://www.linkedin.com/in/khalandachev/details/projects/))
 - 📫 How to reach me: in Telegram **FoxsterDev**, email **foxsterdev@gmail.com**, or in [Linkedin](https://www.linkedin.com/in/khalandachev/)
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1rerXe0Gg-olEQvu_xcglP73Hmv5UfdE5/view?usp=sharing)
-
-- ⚡  Fun fact about one year the biggest development challenge in my career: Designed and build a development quality system to achieve up to 3 days time to market adn up to 1 major bug after code freezefor [Board Kings](https://play.google.com/store/apps/details?id=com.jellybtn.boardkings&hl=en&gl=US) project 
+- ⚡  The biggest development challenge in my career: Designed and build a development quality system to achieve up to 3 days time to market and up to 1 major bug after code freezefor [Board Kings](https://play.google.com/store/apps/details?id=com.jellybtn.boardkings&hl=en&gl=US) project . It included automation of the really big client codebase with 2Mln line codes, adjusting development processes , and refactoring legacy parts of the project.
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foxsterdev&label=Profile%20views&color=0e75b6&style=flat" alt="foxsterdev" /> </p>
 
@@ -38,7 +36,7 @@
 **FoxsterDev/FoxsterDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 👨‍💻 All of my projects are available at [here](https://www.linkedin.com/in/khalandachev/details/projects/))
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
