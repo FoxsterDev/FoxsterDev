@@ -10,7 +10,7 @@
 - 🌱 I’m currently research **Modern Unity Architecture** and **AI tools for game development**
 - 👨‍💻 All of my projects are available at [here](https://www.linkedin.com/in/khalandachev/details/projects/))
 - 📫 How to reach me: in Telegram **FoxsterDev**, email **foxsterdev@gmail.com**, or in [Linkedin](https://www.linkedin.com/in/khalandachev/)
-- 📄 Know about my experiences [CV]()
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1rerXe0Gg-olEQvu_xcglP73Hmv5UfdE5/view?usp=sharing)
 
 - ⚡  Fun fact about one year the biggest development challenge in my career: Designed and build a development quality system to achieve up to 3 days time to market adn up to 1 major bug after code freezefor [Board Kings](https://play.google.com/store/apps/details?id=com.jellybtn.boardkings&hl=en&gl=US) project 
   
@@ -19,8 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khalandachev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalandachev" height="30" width="40" /></a>
-<a href="https://medium.com/foxsterdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="foxsterdev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/channel/uc1uaqa0kmsquexiqkcrijta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/uc1uaqa0kmsquexiqkcrijta" height="30" width="40" /></a>
+<a href="https://foxsterdev.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="foxsterdev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC1uaQA0KMsquEXIqKcRiJtA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/uc1uaqa0kmsquexiqkcrijta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
