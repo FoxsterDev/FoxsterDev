@@ -5,11 +5,9 @@
 
 - 😄 Pronouns: Serge
 - 🔭 Primary working experience: Mobile Game Development with Unity game engine for iOS/Android platforms from Client side.
-- 👨‍💻 You can read my publications on [Medium](https://foxsterdev.medium.com/) or more game development posts you can find on [Linkedin](https://www.linkedin.com/newsletters/from-code-to-play-7165295828431978496/)
 - 🔭 I’m currently working on DevAccelerationSystem/ProjectCompilationCheck tools in my free time and want to share a great architect template for Unity games in future
 - 🌱 I’m currently research **Modern Unity Architecture** and **AI tools for game development**
 - 📫 How to reach me: in Telegram **FoxsterDev**, email **foxsterdev@gmail.com**
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1rerXe0Gg-olEQvu_xcglP73Hmv5UfdE5/view?usp=sharing)
 - ⚡  The biggest development challenge in my career: Designed and build a development quality system to achieve up to 3 days time to market and up to 1 major bug after code freeze for project with more 2Mln lines of code. It included integrating automation, adjusting development processes, and refactoring legacy parts of the project.
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foxsterdev&label=Profile%20views&color=0e75b6&style=flat" alt="foxsterdev" /> </p>
